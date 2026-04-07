@@ -1,0 +1,272 @@
+[
+  {
+    "id": 1,
+    "name": "3-Stone Diamond Ring-Engagement",
+    "category": "Available",
+    "price": 2999,
+    "discount": 20,
+    "rating": 3.5,
+    "image": "assets/Images/3-Stone Diamond Ring-Engagement.jpg?imagesw=300&h=300&fit=crop"
+  },
+  {
+    "id": 2,
+    "name": "3g Men Gold Diamond Ring",
+    "category": "Available",
+    "price": 4999,
+    "discount": 15,
+    "rating": 4.7,
+    "image": "assets/Images/3g Men Gold Diamond Ring.jpg?w=300&h=300&fit=crop"
+  },
+  {
+    "id": 3,
+    "name": "24k Gold and Diamond Ring for Women",
+    "category": "Available",
+    "price": 1999,
+    "discount": 25,
+    "rating": 4.3,
+    "image": "assets/Images/24k Gold and Diamond Ring for Women.jpg?w=300&h=300&fit=crop"
+  },
+  {
+    "id": 4,
+    "name": "Bracelet Gold and Diamonds",
+    "category": "Available",
+    "price": 899,
+    "discount": 10,
+    "rating": 4.2,
+    "image": "assets/Images/Bracelet Gold and Diamonds.jpg?w=300&h=300&fit=crop"
+  },
+  {
+    "id": 5,
+    "name": "Diamond Jewellery-Necklace & Earring",
+    "category": "Available",
+    "price": 799,
+    "discount": 30,
+    "rating": 4.1,
+    "image": "assets/Images/Diamond Jewellery-Necklace & Earring.jpg?w=300&h=300&fit=crop"
+  },
+  {
+    "id": 6,
+    "name": "Diamond Necklace in Yellow Gold 18k",
+    "category": "Available",
+    "price": 3499,
+    "discount": 18,
+    "rating": 4.6,
+    "image": "assets/Images/Diamond Necklace in Yellow Gold 18k.jpg?w=300&h=300&fit=crop"
+  },
+  {
+    "id": 7,
+    "name": "Diamond Necklace Set-for wedding",
+    "category": "Available",
+    "price": 2499,
+    "discount": 12,
+    "rating": 4.0,
+    "image": "assets/Images/Diamond Necklace Set-for wedding.jpg?w=300&h=300&fit=crop"
+  },
+  {
+    "id": 8,
+    "name": "Ear Studs-combo-Diamond jewellery",
+    "category": "Available",
+    "price": 1499,
+    "discount": 22,
+    "rating": 4.4,
+    "image": "assets/Images/Ear Studs-combo-Diamond jewellery.jpg?w=300&h=300&fit=crop"
+  },
+  {
+    "id": 9,
+    "name": "Gold Diamond Baby Tops Earrings",
+    "category": "Available",
+    "price": 3999,
+    "discount": 20,
+    "rating": 4.8,
+    "image": "assets/Images/Gold Diamond Baby Tops Earrings.jpg?w=300&h=300&fit=crop"
+  },
+  {
+    "id": 10,
+    "name": "Lattice Butterfly Diamond Pendant",
+    "category": "Available",
+    "price": 1299,
+    "discount": 15,
+    "rating": 4.3,
+    "image": "assets/Images/Lattice Butterfly Diamond Pendant.jpg?w=300&h=300&fit=crop"
+  },
+  {
+    "id": 11,
+    "name": "Leaf Design Yellow Gold Diamond Pendant set",
+    "category": "Upcoming",
+    "price": 599,
+    "discount": 40,
+    "rating": 4.2,
+    "image": "assets/Images/Leaf Design Yellow Gold Diamond Pendant set.jpg?w=300&h=300&fit=crop"
+  },
+  {
+    "id": 12,
+    "name": "Daimond Chain with earrings",
+    "category": "Upcoming",
+    "price": 999,
+    "discount": 12,
+    "rating": 4.2,
+    "image": "assets/Images/Daimond Chain with earrings.jpg?w=300&h=300&fit=crop"
+  },
+  {
+    "id": 13,
+    "name": "Gold Jumka 22kt yellow gold",
+    "category": "Upcoming",
+    "price": 349,
+    "discount": 22,
+    "rating": 4.3,
+    "image": "assets/Images/Gold Jumka 22kt yellow gold.jpg?w=300&h=300&fit=crop"
+  },
+  {
+    "id": 14,
+    "name": "Gold plated Jhumka Earrings",
+    "category": "Upcoming",
+    "price": 449,
+    "discount": 28,
+    "rating": 4.5,
+    "image": "assets/Images/Gold plated Jhumka Earrings.jpg?w=300&h=300&fit=crop"
+  },
+  {
+    "id": 15,
+    "name": "Swirl Triangle Diamond Pendant",
+    "category": "Upcoming",
+    "price": 2499,
+    "discount": 30,
+    "rating": 4.7,
+    "image": "assets/Images/Swirl Triangle Diamond Pendant.jpg?w=300&h=300&fit=crop"
+  },
+  {
+    "id": 16,
+    "name": "Bridal Jewellery set -Gold",
+    "category": "Upcoming",
+    "price": 1999,
+    "discount": 28,
+    "rating": 4.4,
+    "image": "assets/Images/Bridal Jewellery set -Gold.jpg?w=300&h=300&fit=crop"
+  },
+  {
+    "id": 17,
+    "name": "Choukar with a meraine blue pendant",
+    "category": "Upcoming",
+    "price": 899,
+    "discount": 15,
+    "rating": 4.3,
+    "image": "assets/Images/Choukar with a meraine blue pendant.jpeg?w=300&h=300&fit=crop"
+  },
+  {
+    "id": 18,
+    "name": "Gold Bangles",
+    "category": "Upcoming",
+    "price": 3499,
+    "discount": 18,
+    "rating": 4.8,
+    "image": "assets/Images/Gold Bangles.jpg?w=300&h=300&fit=crop"
+  },
+  {
+    "id": 19,
+    "name": "Pure Diamonds Chain-Pendants",
+    "category": "Upcoming",
+    "price": 799,
+    "discount": 22,
+    "rating": 4.1,
+    "image": "assets/Images/Pure Diamonds Chain- Pendants.jpg"
+  },
+  {
+    "id": 20,
+    "name": "Red beeds Necklace and Earrings",
+    "category": "Upcoming",
+    "price": 1499,
+    "discount": 20,
+    "rating": 4.2,
+    "image": "assets/Images/Red beeds Necklace and Earrings.jpg?w=300&h=300&fit=crop"
+  },
+  {
+    "id": 21,
+    "name": "Bangles",
+    "category": "Missed",
+    "price": 599,
+    "discount": 10,
+    "rating": 4.4,
+    "image": "assets/Images/Bangles.jpg?w=300&h=300&fit=crop"
+  },
+  {
+    "id": 22,
+    "name": "Gold Necklace",
+    "category": "Missed",
+    "price": 899,
+    "discount": 25,
+    "rating": 4.3,
+    "image": "assets/Images/Gold Necklace.jpg?w=300&h=300&fit=crop"
+  },
+  {
+    "id": 23,
+    "name": "Bridal Collection",
+    "category": "Missed",
+    "price": 699,
+    "discount": 15,
+    "rating": 4.5,
+    "image": "assets/Images/Bridal Collection.jpg?w=300&h=300&fit=crop"
+  },
+  {
+    "id": 24,
+    "name": "Necklace-Gold",
+    "category": "Missed",
+    "price": 499,
+    "discount": 20,
+    "rating": 4.1,
+    "image": "assets/Images/Necklace-Gold.jpg?w=300&h=300&fit=crop"
+  },
+  {
+    "id": 25,
+    "name": "Gold Jewellery Necklace",
+    "category": "Missed",
+    "price": 1299,
+    "discount": 30,
+    "rating": 4.6,
+    "image": "assets/Images/Gold Jewellery Necklace.jpg?w=300&h=300&fit=crop"
+  },
+  {
+    "id": 26,
+    "name": "Step Necklace and Earrings",
+    "category": "Missed",
+    "price": 799,
+    "discount": 18,
+    "rating": 4.7,
+    "image": "assets/Images/Step Necklace and Earrings.jpg?w=300&h=300&fit=crop"
+  },
+  {
+    "id": 27,
+    "name": "Red Pendent Necklace",
+    "category": "Missed",
+    "price": 399,
+    "discount": 35,
+    "rating": 4.0,
+    "image": "assets/Images/Red Pendent Necklace.jpg?w=300&h=300&fit=crop"
+  },
+  {
+    "id": 28,
+    "name": "Miracle set cross Diamond Pendant -Solid Gold",
+    "category": "Missed",
+    "price": 1299,
+    "discount": 35,
+    "rating": 4.5,
+    "image": "assets/Images/Miracle set cross Diamond Pendant -Solid Gold.jpg?w=300&h=300&fit=crop"
+  },
+  {
+    "id": 29,
+    "name": "Rose Gold Radiant Diamond Mangalsutra",
+    "category": "Missed",
+    "price": 499,
+    "discount": 20,
+    "rating": 4.0,
+    "image": "assets/Images/Rose Gold Radiant Diamond Mangalsutra.jpg?w=300&h=300&fit=crop"
+  },
+  {
+    "id": 30,
+    "name": "Small gold earrings",
+    "category": "Missed",
+    "price": 999,
+    "discount": 25,
+    "rating": 4.6,
+    "image": "assets/Images/Small gold earrings.jpg?w=300&h=300&fit=crop"
+  }
+]
